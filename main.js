@@ -259,10 +259,10 @@
 //     },
 //     hight: 15,
 //     waidth: 84
-// }
+}
 
 
-console.log(Geka.money.day);
+// console.log(Geka.money.day);
 
 
 
