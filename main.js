@@ -256,8 +256,8 @@
 //     money:{
 //         day: 34,
 //         month: 300
-//     },
-//     hight: 15,
+    },
+    hight: 15,
     waidth: 84
 }
 123
