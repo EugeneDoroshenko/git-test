@@ -260,7 +260,7 @@
 //     hight: 15,
     waidth: 84
 }
-
+123
 
 // console.log(Geka.money.day);
 
