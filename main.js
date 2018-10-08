@@ -262,7 +262,7 @@
 // }
 
 
-// console.log(Geka.money.day);
+console.log(Geka.money.day);
 
 
 
