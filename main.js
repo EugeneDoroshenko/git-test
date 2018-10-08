@@ -258,7 +258,7 @@
 //         month: 300
 //     },
 //     hight: 15,
-//     waidth: 84
+    waidth: 84
 // }
 
 
