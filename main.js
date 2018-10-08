@@ -255,7 +255,7 @@
 //     age: 12,
 //     money:{
 //         day: 34,
-//         month: 300
+        month: 300
     },
     hight: 15,
     waidth: 84
