@@ -255,12 +255,21 @@ function expression
 //     age: 12,
 //     money:{
 //         day: 34,
+<<<<<<< HEAD
 //         month: 300
 //     },
 //     hight: 15,
     waidth: 84
 // }
 
+=======
+        month: 300
+    },
+    hight: 15,
+    waidth: 84
+}
+123
+>>>>>>> Release
 
 console.log(Geka.money.day);
 
