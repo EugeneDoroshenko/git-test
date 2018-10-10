@@ -9,7 +9,7 @@
 //     console.log(a, b);
 // }
 
-// // function expression
+function expression
 // bar = function() {
 //     console.log('bar');
 // } 
